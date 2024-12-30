@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+
+  "[json][jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+
+  "yaml.format.enable": false,
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  }
+}
